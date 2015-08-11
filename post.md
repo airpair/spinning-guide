@@ -3,30 +3,29 @@ billable AirPair hours! Read this guide to save you and customers time
 and confusion. The smoother you operating according to this guide the faster
 you'll get paid and probably booked for another pair!
 
-## 1. What is *Spinning*?
+## 1. What is ***Spinning***?
 
 <!--### 1.1 Background-->
 
-### 1.1 Origins
+### 1.1 Origins & Evolution
 
-The term "Spinning" originally came from the usage: 
+The term *Spinning* originally came from the usage: 
 
-> "**Let me** ***spin*** **you up a** (google) **hangout** (for your AirPair session) **!**"
-
-### 1.2 Evolution
+> "**Let me** ***spin*** **you up a** google **hangout** for your AirPair session!"
 
 These days AirPair `bookings` facilitate a broader set of services than 
-the traditional live pairing (AirPair sessions). Bookings are a great way to get
-paid without fuss across online and offline activities including but not 
+the traditional live pairing session. AirPair Bookings are a way to get
+paid without fuss for online and offline software services including but not 
 limited to:
 
-- (Online) 1-to-many Workshops
-- (Online) Chat support
-- (Offline) Prototyping / research
-- (Offline) Code reviews
-- (Offline) Coding / building for a client
-- (Offline) Authoring guides / documentation 
+- 1-to-many Workshops (Online via Hangouts) 
+- Chat support (Online via Slack) 
+- Prototyping / research (Offline)
+- Code reviews (Offline via GitHub) 
+- Coding / building for a client (Offline) 
+- Authoring guides / tutorials / documentation (Offline potentially on airpair.com) 
 
+<!--
 ***Spinning*** (in AirPair verbiage) has grown to encompases everything you 
 can and should do to get paid as efficiently as possible leveraging our 
 automated workflow once a customer has made a booking. This incorporates tasks leading up to being able to spin your actual pair session including:
@@ -34,6 +33,7 @@ automated workflow once a customer has made a booking. This incorporates tasks l
 - `Scheduling` and confirming to pair (or deliver offline services by).
 - `Onboarding` new customers by answering questions and confirming their
 setup to join your pairing session smoothly.
+-->
 
 <!--
 - - -
@@ -44,30 +44,31 @@ customer is familiar with you but not AirPair, you can be booked direclty
 without a customer needing to make a request.
 -->
 
-### 1.3 Ensuring you get paid
+### 1.2 Getting paid (via Escrow)
 
-#### 1.3.1 Escrow
+If you train your customers well, AirPair can facilitate you being instantly 
+paid as soon as you've completed your work in your preferred increments (between 30 min and 20 hours).
+
+1.2.1 ** Happy customer == instant pay **
 
 <!--Different actions are detailed for different booking types and
 tools (if any) that your customer chooses when they book you.-->
 
-**If all else fails, the step that ensures you get paid is getting customers 
-to release payment from escrow** <sup>Release Payment Step as described in the expert guide</sup>. 
+If all else fails, the single step that still ensures you get paid is getting
+when your customers `release` payment for a booking from escrow <sup>Release Payment Step as described in the expert guide</sup>. 
 
-#### 1.3.2 Manage expectations up-front
+1.2.2 ** Manage bookings up-front **
 
-Bookings represent funds collected for payment in advance. If there is no 
-booking for the customer to release payment on, then you cannot get paid. It is 
-your responsibility to make sure you have been booked full the full amount of
-time with which you have expectations of being paid.
+Bookings represent funds collected and already set aside in escrow for payment 
+to you. If there is no booking, you cannot get paid. AirPair will not 
+retroactively ask customers to create bookings for payment you claim you
+are owed. It is your responsibility to make sure you are booked for the full
+amount of time with which you have expectations of being paid for.
 
-#### 1.3.3 Support from AirPair
+1.2.3 ** Follow the guides **
 
-Assuming you have been booked, everything below is best practice leading 
-up to the customers responsibility to release your payment. The likely of 
-getting assist from AirPair staff in situations where the customer has not 
-immediately released payment after you've delivered service will be reflected
-in how well you have followed the guidelines below.
+The likelihood of getting assistance from AirPair staff in situations where 
+payment is not immediately released will be reflected in how well you have followed the guidelines outlined in the Expert Guide <sup>AirPair [Expert Guide](/expert-guide)</sup> and sections below.
 
 
 <!-- 1.4 Earn more business
