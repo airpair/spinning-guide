@@ -181,84 +181,86 @@ tool of choice between you and your customer.
 ### 4.1 Use our integrated workflow !!
 
 ** Our custom flow**:
-- Will save you time automatically setting up details like inviting the 
+- Save time automatically setting up details like inviting the 
 right emails.
-- Integrates with and updates your chat room and the airpair.com UI.
-- Triggers *@pairbot* to follow up with customers until the release your pay.
+- Integrates with and updates the state of your chat room and the airpair.com UI.
+- Triggers *@pairbot* to follow up with customers until they release your pay.
 
-** Do not create a normal hangout via chat / g+ or slack as**:
-- Recordings will not be accessible to the customer via our system.
-- We are unlikely help release payments if an integrated hangout wasn't created and properly tracked.
+** Normal hangouts via gchat / g+ or slack means**:
+- Recordings will not be accessible to the custome
+- We are unlikely get help with payouts without the interactions tracked and accessible for reference.
 
-### 4.2 Instructions & Confirmation
+### 4.2 Instructions
 
-#### 4.2.1 The (secret) entrance
+#### 4.2.1 The *secret* entrance
 
-**!! Self-spinning only works from 25 minutes before through 15 minutes after
-your confirmed session time.** Outside this time range or logged in with the 
-wrong email address (e.g. a different google account not associated with the 
-booking) you will see a blank page.
+**Note that self-spinning only works 25 minutes before through to 15 minutes 
+after your confirmed time.** Outside that range or logged in with the 
+wrong email (e.g. a different google account not associated with the 
+booking) and you will see a blank page.
 
-To begin enter the self spinning flow, take your booking url and add `/spin` at
-the end. For example if your booking were at:
+To enter the self spinning flow add `/spin` at
+the end of your booking url and. For example take:
 
 <pre>
 https://www.airpair.com/bookings/54fe3005058e3f0c003218ac
 </pre>
 
-The following urls logged in as you will both enter the flow:
+Either of the following url formats logged in as you will enter the flow:
 <pre>
 https://www.airpair.com/bookings/54fe3005058e3f0c003218ac<b style="color:#c7254e">/spin</b>
 
 http://booking.airpa.ir/54fe3005058e3f0c003218ac<b style="color:#c7254e">/spin</b>
 </pre>
 
-The feature is self documented. It is very straightforward if you are
-aware of the Gotchas in the next section.
+One entered the feature is self documented. It is very straightforward 
+if you are aware of the Gotchas below.
 
-#### 4.2.1 On-time creation and recording
+#### 4.2.1 Timely creation and recording
 
 Both the time you create and begin recording are recorded captured by the 
-Hangouts API and saved as data for the Mojo API <sup>4</sup>.
+Hangouts API and stored for the `AirPair Mojo API` <sup>3</sup>.
 
-** 10 mins before ** your Hangout *should* be ready to provide a buffer 
-for special use cases in covered in (4.4) and troubleshooting covered in (4.5). 
+** 10 mins before ** your Hangout *should* be ready. 10 minutes is a good
+buffer for special use cases (see 4.4) and troubleshooting (see 4.5). 
 
-A link will automatically shared by @pairbot 10 minutes before. ** If you do not
-see @pairbot sharing a link to confirm things are setup right, you probably
-missed something and should start again
+@pairbot will automatically shared your hangout link. ** If you don't
+see @pairbot say your hangout is ready, you have missed something and should start again from the beginning.
 
 ![](https://cloud.githubusercontent.com/assets/979542/9191810/799b9650-3fba-11e5-8e7c-6a36ce4919d8.png)
 
-** By the confirm time **, press the "Start Broadcast" button to
-begin recording. If you are your pair are set up and ready begin recording
-early. If your pair is not present or still setting up, begin recording 
-when the clock hits the confirmed time.
+** By the confirmed time **, press the green "Start Broadcast" button to
+begin recording. Hangouts are made private after your broadcast is complete.
+The ods of someone seeing you session live are slim to nil. 
 
-** Tip 1 ** If your first time self spinning, set up your hangout 20 minutes
-before. Once familiar it should take comfortably less than 3 minutes.
+If you and your pair are set up and ready you may begin recording early. If 
+your pair is not present or still setting up, begin recording when the clock 
+hits the confirmed time.
+
+** Tip 1 ** If it is your first time self spinning, set up your hangout 20 
+minutes before. Once familiar it should take comfortably less than 3 minutes.
 - - -
 ** Tip 2 ** If your customer explicitly asks you not to record the hangout
-because for IP or code privacy, please record the beginning of the hangout 
+because of IP or code privacy, please record the beginning of the hangout 
 then press "Stop broadcast" when you begin to cover sensitive information. 
 - - -
 ** Tip 3 ** Historically customers uncomfortable with / refusing to use video
 have caused problems. Try flag if the customer has issues with 
-@customer-service during onboarding and not at the last moment.
+@customer-service during onboarding (section 5) and not at the last moment.
 
 ### 4.3 Gotchas
 
-1) Even though the self-spin flow invites your personal email to the hangout, 
-**user 1 hangout window** as the @airpair.com account you login with. 2 hangout
+1) Though the self-spin flow invites your personal email to the hangout, 
+**use 1 hangout window** logged in as the @airpair.com account. 2 hangout
 windows will cause an echo. Closing the incognito @airpair.com window and 
 re-joining with your personal g+ email will stop the recording.
 
-2) Remember to **open a fresh incognito window** with link you get given in
-the second step. If you had another incognito window still lying around and
-signed into an existing google account, the integration will fail and you will
-not see pairbot share the link in chat.
+2) Remember to **open a fresh incognito window** with then link you get given in
+the second step. If you have another incognito window lying around and
+signed into another google account, the flow will fail and you will
+not see pairbot in chat.
 
-3) **Popup Blockers** and AdBlockers may hinder the hangout API from opening 
+3) **Popup Blockers** and AdBlockers may hinder the Hangout API from opening 
 a new window for the Hangout.
 
 ### 4.4 Special use-cases
@@ -299,11 +301,10 @@ as the same email address on the booking.
 3. (3rd call) Trying a different browser
 3. (Last resort) Rebooting
 
-
 <!--
-## 5 Follow up
+## 5 Onboarding
 
-### Priority 3 - ONBOARDING new Participants
+## 6 Follow up
 
 You will get an email when a new booking is made. Make sure that
 booking is associated with either a new room you create or an existing one.
