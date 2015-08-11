@@ -74,74 +74,80 @@ followed the guidelines outlined in the Expert Guide <sup>AirPair [Expert Guide]
 
 ## 2. Expectations & professionalism
 
-Stick to these guidelines to avoid your AirPair `Mojo` <sup>The [Expert mojo api](https://github.com/airpair/experts.airpair.com/blob/master/docs/api/experts/mojo.md) and the number of pairs you get.</sup> and future success getting 
-pairs being negatively impacted.
+Your AirPair `Mojo` <sup>The [Expert mojo api](https://github.com/airpair/experts.airpair.com/blob/master/docs/api/experts/mojo.md) and the number of pairs you get.</sup> and future success in getting 
+pairs is tightly bound with sticking in these boundaries.
 
-### 2.1 DON'T MISS SESSIONS
+### 2.1 Showing up
 
-We will credit your customer $30 deduct that 
-amount from your payouts. Missing multiple sessions will lead to no more 
-pairing via AirPair.
+We will deduct $30 from your payouts and credit your customer each time you
+miss a session. Missing multiple sessions will quickly the number of new 
+pairing opportunties we send you drop towards nil.
 
-### 2.2 AVOID RESCHEDULING
+### 2.2 Rescheduling
 
-1. We expect you not to reschedule customers. 
-2. If rescheduling is necessary it must be done with at least 24 hours notice.
-3. Under exceptional circumstances (baby on the way / traffic jam etc.) 
+You are generally expected not to reschedule customers, but if necessarily
+to work within the following boundaries:
+
+1. If rescheduling is necessary you must notify your customer and 
+@customer-support via chat with at least 24 hours notice.
+2. Under exceptional circumstances (baby on the way / traffic jam etc.) 
 **let your pair know *via your chat room* ** at least a half hour before why
-you will not be able to attend. Via chat enables and sooner if possible helps
-us potentially swap to an alternate expert.
-4. Radio silence will likely lead to no more pairing via AirPair.
-5. Stopping/breaking mid-session for more than 1-2 minutes (e.g. to take phone  calls) or change locations is not acceptable.
-6. Ending early to reschedule will entitle the customer the original
-full booking length at the rescheduled time, to swap experts without you
-getting paid or a full refund.
+you will not be able to attend.
+3. Radio silence leading up to and past your scheduled time will likely lead to no more pairing.
+4. Stopping /breaking mid-session for more than 1-2 minutes (e.g. to take phone  calls) or change locations is not acceptable.
+5. Ending early to reschedule will entitle the customer to the original
+full booking length at the rescheduled time or to swap and try a new expert 
+without you getting paid or a full refund.
 
-### 2.3 WORKING AUDIO & VIDEO
+** Tip ** The sooner you let your customer and us know (via chat) that you 
+cannot make a session the greater chance there is to find and swap to an alternate expert.
+
+### 2.3 Audio & Video
 
 We expect your audio and video to be working and clear. You are responsible
-for having enough bandwidth and pre-testings that the audio and video are
-not inhibiting communications ahead of time.
+for having enough bandwidth and pre-testings ahead of time and that the audio 
+and video are not inhibiting communications.
 
-### 2.4 ON TIME IS EARLY
+### 2.4 Punctuality
 
-We respect expert time more than similar platform <sup>Unlike other platforms [AirPair favors experts](/expert-guide).</sup> Customers are made aware that
-your time is important and that paid time starts ticking immediately from
-your scheduled time.
+**{ ON TIME IS EARLY }**
 
-You and your pair are asked to be online in your chat room **10 minutes before your session** to:
+We respect expert time more than similar platforms <sup>Unlike other platforms [AirPair favors experts](/expert-guide).</sup>. Customers are made aware that
+your time is precious and the clock starts ticking immediately from at your scheduled time.
 
-- To account for possible clock misalignment
-- Buffer time to correctly set up 
+Be online in your chat room **10 minutes before your session** to:
+
+- To account for clock misalignment
+- Buffer time for smooth set up 
 - Last minute ping missing parties accidently distracted, but readily available if poked <sup>Sometimes we developers can get lost in code and not notice the time/</sup>.
 
 ### 2.5 Late customers & no-shows
 
-Experts have no obligation to stay later than the scheduled time, even if a 
-customer is ready a few minutes late.
+By being on-time, you also have no obligation to stay later than scheduled, even if customers are a few minutes late.
 
-If a customer is later than 15 minutes and you your session recording started
-on time, you may end the call and collect payment for the full booking by
-mentioning @customer-service in your chat room to let us know.
+When your session recording has started on time, and a customer is later than 
+15 minutes, you may end the call and collect your full booking payment after
+mentioning @customer-service in chat to let alter of the no-show.
 
-### 2.6 STICK TO PAID TIME
+### 2.6 Stick to PAID time
 
-With no expectations, we are happy for you to go up to 15 minutes overtime 
-if you are eager and going to successfully wrap up with a few extra minutes.
+With no expectations, if you need a few extra minutes and are eager to user them 
+to successfully wrap up a session we are ok for you to go up to 15 minutes.
 
 If you think it will take more than an extra 15 minutes, 5 minutes before 
-the end of the original session length ask if the customer if they wish
-to book more time. Otherwise solved or not, we expect you to have wrapped up 
-by 15 minutes over.
+the end of the original session end, ask the customer if they wish
+to book more time <sup>See Rebooking in the Expert Guide</sup>. Solved or not, 
+if a customer does not wish to rebook, we expect you to wrapped up no later 
+than 15 minutes over.
 
-Providing free follow on time is frowned upon. You should be able to accurately 
-set expectations before being booked. Most scenarios around experts wanting to 
-give additional free time have resulted from missing expert knowledge which
-ultimately reflects poorly on the platform. If not 100% confident, do not 
-volunteer to avoid mis-aligned customer expectations.
-
-Customers sometime try to extract value in chat before the actual paid session.
-Use your intuition for answering pre-session questions to setup your success 
+Providing free time is frowned upon. Most scenarios around experts wanting to 
+give additional follow on free time result from lack of expertise which
+ultimately reflects poorly on the platform and often agrovate customers. 
+Only volunteer on requirements you are very confident with. Customers sometimes 
+try to extract value in chat before the actual paid sessions. Use your 
+intuition to chat for enough time to answer pre-session questions to set 
+yourself up for success. Do not spend unaccounted hours going through the 
+customers code and necessary book offline time.
 
 ## 3. Tools for live pairing sessions
 
