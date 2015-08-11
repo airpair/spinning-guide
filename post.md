@@ -323,22 +323,8 @@ down the bottom.
 
 ** Associate an existing room (group) **  
 -->
-
-
 <!--
 -- (FirstTime) 10 mins to fix mic / audio
 -- Paid time always begins on the hour or half
 --- Topping.
--->
-
-<!--
-## Future Features
-
-- Add additional participants to a booking
-- Auto-set youtube privacy / shared with participants
-- Get experts to oAuth to slack
-- Hightlight booking types as different colors in calendar (hangout vs screenhero.
-- Rebook link
-- Auto post in room session winding down with rebook link
-
 -->
