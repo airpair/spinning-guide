@@ -149,43 +149,34 @@ intuition to chat for enough time to answer pre-session questions to set
 yourself up for success. Do not spend unaccounted hours going through the 
 customers code and necessary book offline time.
 
-## 3. Tools for live pairing sessions
-
-### 3.1 With new customers
+## 3. Tools for AirPairing Sessions
 
 Live Pairing sessions by default are conducted through **AirPair Integrated 
-Google Hangouts** on Air. We encourage Hangouts for first interactions as the video is better for building initial human connection / trust. 
+Google Hangouts** on Air. Hangouts are currently the only system integrated into our automated workflow. Recordings are automatically given to the customer in the airpair.com UI for reference. They also help resolve disputes and track fulfilment. 
 
-Hangouts are currently the only system integrated into our automated workflow. 
-Recordings are automatically given to the customer in the airpair.com UI for
-reference. They also help resolve disputes and track fulfilment. 
+### 3.1 New customers
 
-New customers are just getting introduced to ideas like escrow. Sticking to the 
-flow particularly increases the efficiency and certainty with which you get 
-paid.
+We encourage Hangouts for first interactions as the video great for building initial human connection / trust. 
 
-<!--Unless you are an experience expert (worked with more than 5 customers) and
-your next customer has also used AirPair before, using hangouts on your first
-pair is required.-->
+AirPair has a money back-gaurantee <sup>See AirPair's Refund Policy for deatils on Money Back Gaurantee</sup> for the first hour with any new 
+expert and new customers are just getting introduced to ideas like escrow. 
+Sticking to the basic automatated flow with new customers particularly 
+increases the efficiency and reduces risk of getting paid.
 
 ### 3.2 With return customers
 
-#### 3.2.1 Whatever works
+#### 3.2.1 Pairing tool of choice
 
-After the first session we recommend you use the pairing/ screen-sharing 
-tool of choice between you and the customer.
+After the first session we recommend you use the pairing/ screen-share 
+tool of choice between you and your customer.
 
-#### 3.2.2 When to stick with Hangouts
+#### 3.2.2 Why stick with Hangouts?
 
-If the customer wants a recordings accessible from their AirPair dashboard, 
-it is best to continue with hangouts. Hangouts are also great for multiple
-attendees.
+1. If the customer wants recordings accessible from their AirPair dashboard 
+2. If additional participants are required
 
-<!--#### 3.2.3 Keeping things automated
 
-Hacking the workflow, just spin a hangout anyway.-->
-
-## 4. Spinning your own Hangouts
+## 4. Spin your own Hangout
 
 ### 4.1 Use our integrated workflow !!
 
