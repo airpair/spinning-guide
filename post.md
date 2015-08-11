@@ -46,8 +46,9 @@ without a customer needing to make a request.
 
 ### 1.2 Getting paid (via Escrow)
 
-If you train your customers well, AirPair can facilitate you being instantly 
-paid as soon as you've completed your work in your preferred increments (between 30 min and 20 hours).
+If you train customers well and follow the flow, AirPair facilitates you being 
+paid instantly for completed work increments of your preferred between 30 mins 
+& 20 hrs.
 
 1.2.1 ** Happy customer == instant pay **
 
