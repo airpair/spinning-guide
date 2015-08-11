@@ -228,7 +228,7 @@ A link will automatically shared by @pairbot 10 minutes before. ** If you do not
 see @pairbot sharing a link to confirm things are setup right, you probably
 missed something and should start again
 
-<!-- Insert screenshot here -->
+![](https://cloud.githubusercontent.com/assets/979542/9191810/799b9650-3fba-11e5-8e7c-6a36ce4919d8.png)
 
 ** By the confirm time **, press the "Start Broadcast" button to
 begin recording. If you are your pair are set up and ready begin recording
