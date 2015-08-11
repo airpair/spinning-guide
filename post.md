@@ -3,7 +3,7 @@ billable AirPair hours! Read this guide to save you and customers time
 and confusion. The smoother you operating according to this guide the faster
 you'll get paid and probably booked for another pair!
 
-## 1. What is ***Spinning***?
+## 1. What is ***Spinning*** ?
 
 <!--### 1.1 Background-->
 
@@ -68,28 +68,8 @@ amount of time with which you have expectations of being paid for.
 1.2.3 ** Follow the guides **
 
 The likelihood of getting assistance from AirPair staff in situations where 
-payment is not immediately released will be reflected in how well you have followed the guidelines outlined in the Expert Guide <sup>AirPair [Expert Guide](/expert-guide)</sup> and sections below.
-
-
-<!-- 1.4 Earn more business
-
-<!--
-### 2.0 Plaform in progress 
-
-Most folks perceive AirPair as big company. It's currently run with lots of love 
-{<3} by one person <sup>AirPair is happily profitable and will expand again towards end of 2016 when @jk sets up the new head office in Sydney, Australia</sup>. 
--->
-<!--
-We recognize the expert features of the site have been mostly incomplete since
-the rebuild began<sup>The airpair.com rebuilt started in Q4, 2014</sup>. Good
-news, is the experts features are the top prioirty of Q3/Q4 and many like the 
-bulk deals and availability feature are just need a skin to become accesible
-to you on the front-end.
-
-Thank you reading and incorporating the details in this guide. Utilizing 
-this info will save us time that will be dedicated to coding and releasing
-features faster :)
--->
+payment is not immediately released will be reflected in how well you have 
+followed the guidelines outlined in the Expert Guide <sup>AirPair [Expert Guide](/expert-guide)</sup> and sections below.
 
 ## 2. Expectations & professionalism
 
