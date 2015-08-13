@@ -142,7 +142,7 @@ than 15 minutes over.
 
 Providing free time is frowned upon. Most scenarios around experts wanting to 
 give additional follow on free time result from lack of expertise which
-ultimately reflects poorly on the platform and often agrovate customers. 
+ultimately reflects poorly on the platform and often aggravate customers. 
 Only volunteer on requirements you are very confident with. Customers sometimes 
 try to extract value in chat before the actual paid sessions. Use your 
 intuition to chat for enough time to answer pre-session questions to set 
