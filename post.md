@@ -1,7 +1,7 @@
-> So we thought you are responsible enough to operate and track your own 
-billable AirPair hours! Read this guide to save you and customers time
+> So we thought you responsible enough to operate and track your own 
+billable AirPair hours! Read this guide to save you and your customers time
 and confusion. The smoother you operating according to this guide the faster
-you'll get paid and probably booked for another pair!
+you'll get paid and probably rebooked for more pairing hours!
 
 ## 1. What is ***Spinning*** ?
 
@@ -14,26 +14,18 @@ The term *Spinning* originally came from the usage:
 > "**Let me** ***spin*** **you up a** google **hangout** for your AirPair session!"
 
 These days AirPair `bookings` facilitate a broader set of services than 
-the traditional live pairing session. AirPair Bookings are a way to get
+the traditional live pairing session. Bookings are a way to get
 paid without fuss for online and offline software services including but not 
 limited to:
 
-- 1-to-many Workshops (Online via Hangouts) 
-- Chat support (Online via Slack) 
-- Prototyping / research (Offline)
-- Code reviews (Offline via GitHub) 
-- Coding / building for a client (Offline) 
-- Authoring guides / tutorials / documentation (Offline potentially on airpair.com) 
+- Live `pairing` (online via a screensharing tool) 
+- 1-to-many `workshops` (online via Hangouts) 
+- `chat` support (online via Slack) 
+- Prototyping / `research` (offline)
+- Async `code-review` (offline via GitHub) 
+- `coding` features (offline) 
+- `authoring` guides / tutorials / documentation (offline) 
 
-<!--
-***Spinning*** (in AirPair verbiage) has grown to encompases everything you 
-can and should do to get paid as efficiently as possible leveraging our 
-automated workflow once a customer has made a booking. This incorporates tasks leading up to being able to spin your actual pair session including:
-
-- `Scheduling` and confirming to pair (or deliver offline services by).
-- `Onboarding` new customers by answering questions and confirming their
-setup to join your pairing session smoothly.
--->
 
 <!--
 - - -
