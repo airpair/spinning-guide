@@ -7,7 +7,7 @@ you'll get paid and probably rebooked for more pairing hours!
 
 <!--### 1.1 Background-->
 
-### 1.1 Origins & Evolution
+### 1.1 Origins & evolution
 
 The term *Spinning* originally came from the usage: 
 
@@ -38,11 +38,11 @@ without a customer needing to make a request.
 
 ### 1.2 Getting paid (via Escrow)
 
-If you train customers well and follow the flow, AirPair facilitates you being 
-paid instantly for completed work increments of your preferred between 30 mins 
-& 20 hrs.
+If you follow the flow and train customers to play along, AirPair facilitates 
+instant for completed work, in increments of your preference between 30 mins 
+and 20 hrs.
 
-1.2.1 ** Happy customer == instant pay **
+1.2.1 ** Happy customers == instant pay **
 
 <!--Different actions are detailed for different booking types and
 tools (if any) that your customer chooses when they book you.-->
@@ -72,8 +72,8 @@ pairs is tightly bound with sticking in these boundaries.
 ### 2.1 Showing up
 
 We will deduct $30 from your payouts and credit your customer each time you
-miss a session. Missing multiple sessions will quickly the number of new 
-pairing opportunties we send you drop towards nil.
+miss a session. Missing sessions will quickly reduce the number of new pairing
+opportunties.
 
 ### 2.2 Rescheduling
 
