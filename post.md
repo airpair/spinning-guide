@@ -209,7 +209,7 @@ if you are aware of the Gotchas below.
 
 #### 4.2.1 Timely creation and recording
 
-Both the time you create and begin, recording are recorded captured by the 
+Both the time you create and begin, recording is recorded captured by the 
 Hangouts API and stored for the `AirPair Mojo API` <sup>3</sup>.
 
 ** 10 mins before ** your Hangout *should* be ready. 10 minutes is a good
@@ -285,7 +285,7 @@ Occasionally users
 ### 4.5 Troubleshooting hangouts
 
 Hangouts can be flakey and even experienced experts and we've watched 
-experienced experts have random difficulties that delayed sessions starting. 
+experienced experts have random difficulties that delayed sessions from starting. 
 Most issues are solved with:
 
 1. (First call) Confirming the customer is logged into google and joining
