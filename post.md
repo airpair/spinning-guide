@@ -207,7 +207,7 @@ http://booking.airpa.ir/54fe3005058e3f0c003218ac<b style="color:#c7254e">/spin</
 Once entered the feature is self documented. It is very straightforward 
 if you are aware of the Gotchas below.
 
-#### 4.2.1 Timely creation and recording
+#### 4.2.2 Timely creation and recording
 
 Both the time you create and begin, recording is recorded captured by the 
 Hangouts API and stored for the `AirPair Mojo API` <sup>3</sup>.
