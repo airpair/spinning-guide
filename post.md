@@ -1,6 +1,6 @@
-> So we thought you responsible enough to operate and track your own 
+> So we thought you are responsible enough to operate and track your own 
 billable AirPair hours! Read this guide to save you and your customers time
-and confusion. The smoother you operating according to this guide the faster
+and confusion. The smoother you operate according to this guide the faster
 you'll get paid and probably rebooked for more pairing hours!
 
 ## 1. What is ***Spinning*** ?
@@ -39,7 +39,7 @@ without a customer needing to make a request.
 ### 1.2 Getting paid (via Escrow)
 
 If you follow the flow and train customers to play along, AirPair facilitates 
-instant for completed work, in increments of your preference between 30 mins 
+instant pay for completed work, in increments of your preference between 30 mins 
 and 20 hrs.
 
 1.2.1 ** Happy customers == instant pay **
@@ -47,8 +47,7 @@ and 20 hrs.
 <!--Different actions are detailed for different booking types and
 tools (if any) that your customer chooses when they book you.-->
 
-If all else fails, the single step that still ensures you get paid is getting
-when your customers `release` payment for a booking from escrow <sup>Release Payment Step as described in the expert guide</sup>. 
+If all else fails, the single step that still ensures you get paid is getting your customers `release` payment for a booking from escrow <sup>Release Payment Step as described in the expert guide</sup>.
 
 1.2.2 ** Manage bookings up-front **
 
@@ -123,13 +122,13 @@ mentioning @customer-service in chat to let alter of the no-show.
 
 ### 2.6 Stick to PAID time
 
-With no expectations, if you need a few extra minutes and are eager to user them 
+With no expectations, if you need a few extra minutes and are eager to use them 
 to successfully wrap up a session we are ok for you to go up to 15 minutes.
 
 If you think it will take more than an extra 15 minutes, 5 minutes before 
-the end of the original session end, ask the customer if they wish
+the end of the original session ends, ask the customer if they wish
 to book more time <sup>See Rebooking in the Expert Guide</sup>. Solved or not, 
-if a customer does not wish to rebook, we expect you to wrapped up no later 
+if a customer does not wish to rebook, we expect you to wrap up no later 
 than 15 minutes over.
 
 Providing free time is frowned upon. Most scenarios around experts wanting to 
@@ -139,16 +138,16 @@ Only volunteer on requirements you are very confident with. Customers sometimes
 try to extract value in chat before the actual paid sessions. Use your 
 intuition to chat for enough time to answer pre-session questions to set 
 yourself up for success. Do not spend unaccounted hours going through the 
-customers code and necessary book offline time.
+customers code and if necessary book offline time.
 
 ## 3. Tools for AirPairing Sessions
 
 Live Pairing sessions by default are conducted through **AirPair Integrated 
-Google Hangouts** on Air. Hangouts are currently the only system integrated into our automated workflow. Recordings are automatically given to the customer in the airpair.com UI for reference. They also help resolve disputes and track fulfilment. 
+Google Hangouts** on Air. Hangouts are currently the only system integrated into our automated workflow. Recordings are automatically given to the customer in the airpair.com UI for reference. They also help resolve disputes and track fulfilment.
 
 ### 3.1 New customers
 
-We encourage Hangouts for first interactions as the video great for building initial human connection / trust. 
+We encourage Hangouts for first interactions as the video is great for building initial human connection / trust.
 
 AirPair has a money back-gaurantee <sup>See AirPair's Refund Policy for deatils on Money Back Gaurantee</sup> for the first hour with any new 
 expert and new customers are just getting introduced to ideas like escrow. 
@@ -179,15 +178,15 @@ right emails.
 - Triggers *@pairbot* to follow up with customers until they release your pay.
 
 ** Normal hangouts via gchat / g+ or slack means**:
-- Recordings will not be accessible to the custome
-- We are unlikely get help with payouts without the interactions tracked and accessible for reference.
+- Recordings will not be accessible to the customer
+- We are unlikely to help with payouts without the interactions tracked and accessible for reference.
 
 ### 4.2 Instructions
 
 #### 4.2.1 The *secret* entrance
 
 **Note that self-spinning only works 25 minutes before through to 15 minutes 
-after your confirmed time.** Outside that range or logged in with the 
+after your confirmed time.** Outside that range or if logged in with the 
 wrong email (e.g. a different google account not associated with the 
 booking) and you will see a blank page.
 
@@ -205,12 +204,12 @@ https://www.airpair.com/bookings/54fe3005058e3f0c003218ac<b style="color:#c7254e
 http://booking.airpa.ir/54fe3005058e3f0c003218ac<b style="color:#c7254e">/spin</b>
 </pre>
 
-One entered the feature is self documented. It is very straightforward 
+Once entered the feature is self documented. It is very straightforward 
 if you are aware of the Gotchas below.
 
 #### 4.2.1 Timely creation and recording
 
-Both the time you create and begin recording are recorded captured by the 
+Both the time you create and begin, recording are recorded captured by the 
 Hangouts API and stored for the `AirPair Mojo API` <sup>3</sup>.
 
 ** 10 mins before ** your Hangout *should* be ready. 10 minutes is a good
@@ -223,7 +222,7 @@ see @pairbot say your hangout is ready, you have missed something and should sta
 
 ** By the confirmed time **, press the green "Start Broadcast" button to
 begin recording. Hangouts are made private after your broadcast is complete.
-The ods of someone seeing you session live are slim to nil. 
+The odds of someone seeing your session live are slim to nil. 
 
 If you and your pair are set up and ready you may begin recording early. If 
 your pair is not present or still setting up, begin recording when the clock 
@@ -236,7 +235,7 @@ minutes before. Once familiar it should take comfortably less than 3 minutes.
 because of IP or code privacy, please record the beginning of the hangout 
 then press "Stop broadcast" when you begin to cover sensitive information. 
 - - -
-** Tip 3 ** Historically customers uncomfortable with / refusing to use video
+** Tip 3 ** Historically customers are uncomfortable with / refusing to use video
 have caused problems. Try flag if the customer has issues with 
 @customer-service during onboarding (section 5) and not at the last moment.
 
@@ -247,7 +246,7 @@ have caused problems. Try flag if the customer has issues with
 windows will cause an echo. Closing the incognito @airpair.com window and 
 re-joining with your personal g+ email will stop the recording.
 
-2) Remember to **open a fresh incognito window** with then link you get given in
+2) Remember to **open a fresh incognito window** with the link you are given in
 the second step. If you have another incognito window lying around and
 signed into another google account, the flow will fail and you will
 not see pairbot in chat.
@@ -269,7 +268,7 @@ invites in the hangout UI and paste in the additional emails they provide.
 #### 4.4.1 Alternate g+ friendly emails 
 
 Often customers sign up with email addresses or corporate accounts that are
-not g+ enabled and thus cannot be used to access the hangout. Ask the customer for a alternate (usually personal gmail) address and manually invite that
+not g+ enabled and thus cannot be used to access the hangout. Ask the customer for an alternate (usually personal gmail) address and manually invite that
 address from the hangout UI.
 
 #### 4.4.2 Additional participants
@@ -277,9 +276,11 @@ address from the hangout UI.
 Manually invite addresses from the hangout UI that are provided for colleagues
 to join.
 
+<!--
 #### 4.4.3 Duplicate accounts
 
 Occasionally users
+-->
 
 ### 4.5 Troubleshooting hangouts
 
