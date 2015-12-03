@@ -1,4 +1,4 @@
-> So we thought you are responsible enough to operate and track your own 
+> We thought you are responsible enough to operate and track your own 
 billable AirPair hours! Read this guide to save you and your customers time
 and confusion. The smoother you operate according to this guide the faster
 you'll get paid and probably rebooked for more pairing hours!
