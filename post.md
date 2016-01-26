@@ -5,7 +5,7 @@ you'll get paid and probably rebooked for more pairing hours!
 
 ## 1. What is ***Spinning*** ?
 
-<!-- More playing from author.airpair -->
+<!-- More playing from author.airpair looks like some auto sync going on -->
 
 ### 1.1 Origins & evolution
 
