@@ -4,7 +4,8 @@ and confusion. The smoother you operate according to this guide the faster
 you'll get paid and probably rebooked for more pairing hours!
 
 ## 1. What is ***Spinning*** ?
-'
+
+<!-- More playing from author.airpair -->
 
 ### 1.1 Origins & evolution
 
