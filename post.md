@@ -4,8 +4,7 @@ and confusion. The smoother you operate according to this guide the faster
 you'll get paid and probably rebooked for more pairing hours!
 
 ## 1. What is ***Spinning*** ?
-
-<!--### 1.1 Background-->
+'
 
 ### 1.1 Origins & evolution
 
